@@ -10,7 +10,7 @@
 
 Sou estudante de Engenharia de Software e utilizo este GitHub para documentar minha evolução como desenvolvedor.
 
-Atualmente estudo Python, JavaScript, Banco de Dados, APIs REST e desenvolvimento back-end, sempre buscando transformar teoria em projetos práticos.
+Atualmente estudo Python, Banco de Dados, APIs REST e desenvolvimento back-end, sempre buscando transformar teoria em projetos práticos.
 
 Meu objetivo é conquistar uma oportunidade de estágio na área de desenvolvimento, evoluir continuamente e contribuir para a criação de soluções eficientes e bem estruturadas.
 
@@ -19,8 +19,6 @@ Meu objetivo é conquistar uma oportunidade de estágio na área de desenvolvime
 ## 🛠️ Tecnologias
 
 - 🐍 Python
-- ☕ Java
-- 📜 JavaScript
 - 🌐 HTML5
 - 🎨 CSS3
 - 🗄️ SQL
@@ -32,7 +30,6 @@ Meu objetivo é conquistar uma oportunidade de estágio na área de desenvolvime
 
 - Desenvolvimento Back-end
 - Python
-- JavaScript
 - Estruturas de Dados
 - Banco de Dados
 - APIs REST
@@ -64,9 +61,9 @@ Acredito que a melhor forma de aprender é praticando. Por isso, este repositór
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/seu-link
+💼 LinkedIn: https://www.linkedin.com/in/felipe-eduardo-244139259
 
-📧 E-mail: seuemail@email.com
+📧 E-mail: felipemartins.edu@gmail.com
 
 ---
 
