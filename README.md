@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Felipe
 
-🎓 Estudante de Engenharia de Software
+🎓 Estudante Análise e Desenvolvimento de Sistemas
 
 💻 Focado em Desenvolvimento Back-end
 
