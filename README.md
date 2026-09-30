@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software e utilizo este GitHub para documentar minha evolução como desenvolvedor.
+Sou estudante de Análise e Desenvolvimento de Sistemas e utilizo este GitHub para documentar minha evolução como desenvolvedor.
 
 Atualmente estou aprofundando meus conhecimentos em Python e Git/GitHub, aplicando o que aprendo por meio de exercícios e projetos práticos.
 
